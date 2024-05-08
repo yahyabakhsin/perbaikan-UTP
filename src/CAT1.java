@@ -1,0 +1,3 @@
+class CAT1 extends TiketKonser {
+   //Do your magic here...
+ }
